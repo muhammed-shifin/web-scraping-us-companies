@@ -68,6 +68,6 @@ This project demonstrates an end-to-end data workflow using Python. It involves 
 
 ## 📬 Contact
 
-* LinkedIn: *(Add your LinkedIn link here)*
+* LinkedIn: https://www.linkedin.com/in/muhammedshifin
 
 ---
